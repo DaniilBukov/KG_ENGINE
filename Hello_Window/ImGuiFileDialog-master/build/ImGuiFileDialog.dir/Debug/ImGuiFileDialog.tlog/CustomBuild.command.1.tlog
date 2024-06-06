@@ -1,0 +1,10 @@
+^C:\USERS\BUKOV\DOWNLOADS\IMGUIFILEDIALOG-MASTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/bukov/Downloads/ImGuiFileDialog-master -BC:/Users/bukov/Desktop/KURSACHGLUI/Hello_Window/ImGuiFileDialog-master/build --check-stamp-file C:/Users/bukov/Desktop/KURSACHGLUI/Hello_Window/ImGuiFileDialog-master/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

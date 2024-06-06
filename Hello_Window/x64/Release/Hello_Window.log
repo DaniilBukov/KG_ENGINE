@@ -1,0 +1,2 @@
+﻿  glad.c
+C:\Users\bukov\Desktop\KURSACHGLUI\Hello_Window\glad.c(25,10): error C1083: Не удается открыть файл включение: glad/glad.h: No such file or directory,

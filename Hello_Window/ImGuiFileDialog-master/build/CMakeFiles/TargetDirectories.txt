@@ -1,0 +1,3 @@
+C:/Users/bukov/Desktop/KURSACHGLUI/Hello_Window/ImGuiFileDialog-master/build/CMakeFiles/ImGuiFileDialog.dir
+C:/Users/bukov/Desktop/KURSACHGLUI/Hello_Window/ImGuiFileDialog-master/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/bukov/Desktop/KURSACHGLUI/Hello_Window/ImGuiFileDialog-master/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^C:\USERS\BUKOV\DESKTOP\KURSACHGLUI\HELLO_WINDOW\IMGUIFILEDIALOG-MASTER\BUILD\CMAKEFILES\1F6B98FDE81DB495DF7606921F5C804D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/bukov/Downloads/ImGuiFileDialog-master -BC:/Users/bukov/Desktop/KURSACHGLUI/Hello_Window/ImGuiFileDialog-master/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/bukov/Desktop/KURSACHGLUI/Hello_Window/ImGuiFileDialog-master/build/ImGuiFileDialog.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

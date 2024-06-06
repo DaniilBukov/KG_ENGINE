@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\bukov\Desktop\KURSACHGLUI\Hello_Window\shader.h(61,40): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\bukov\Desktop\KURSACHGLUI\Hello_Window\mesh.h(90,50): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\bukov\Desktop\KURSACHGLUI\Hello_Window\model.h(226,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\bukov\Desktop\KURSACHGLUI\Hello_Window\main.cpp(44,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\bukov\Desktop\KURSACHGLUI\Hello_Window\main.cpp(155,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\bukov\Desktop\KURSACHGLUI\Hello_Window\main.cpp(172,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bukov\Desktop\KURSACHGLUI\Hello_Window\main.cpp(173,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bukov\Desktop\KURSACHGLUI\Hello_Window\main.cpp(103,10): warning C4101: isLoaded1: неиспользованная локальная переменная
+C:\Users\bukov\Desktop\KURSACHGLUI\Hello_Window\main.cpp(554,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bukov\Desktop\KURSACHGLUI\Hello_Window\main.cpp(555,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bukov\Desktop\KURSACHGLUI\Hello_Window\main.cpp(559,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\bukov\Desktop\KURSACHGLUI\Hello_Window\main.cpp(560,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\bukov\Desktop\KURSACHGLUI\Hello_Window\main.cpp(562,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bukov\Desktop\KURSACHGLUI\Hello_Window\main.cpp(563,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bukov\Desktop\KURSACHGLUI\Hello_Window\main.cpp(571,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Hello_Window.vcxproj -> C:\Users\bukov\Desktop\KURSACHGLUI\x64\Debug\Advanced Lighting.exe
